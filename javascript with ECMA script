@@ -1,0 +1,17 @@
+#how to create a stack datatype!!!!! in javascript...
+
+#tr are many ways..
+#basic one is by using arrays and then implement a stack.
+
+let stack=[] //this creates a empty array..by which we add stack  implementation thats it!!!
+let count=0;
+// there are many functions by which we cab use
+
+// functions:
+
+//peek():- this tells the top of the array
+
+function peek(){
+return(count.length-1);
+}
+
